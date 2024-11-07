@@ -18,8 +18,11 @@ Install Requirements  pip install -r requirements.txt  
 **Workflow:**
 
 Data Cleaning and Loading: Involves preparing the dataset for analysis by addressing missing values, transforming data types, and filtering out irrelevant entries. 
+
 Exploratory Data Analysis (EDA): Conduct an initial exploration of the data to understand distributions and correlations among the various fields. 
+
 Statistical Analysis: Analyze statistical trends to explore potential relationships and comparisons between variables. 
+
 Visualization: Utilize data visualization techniques to convey insights, including histograms, bar plots, scatter plots, and box plots.
 
 **Key Findings:**
