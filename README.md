@@ -6,3 +6,8 @@ This report analyzes a dataset detailing information about gym members to uncove
 We use Python and Jupyter Notebook, to explore statistical relationships and plotting within the data to derive actionable insights.
 
 **Dataset:**
+https://www.kaggle.com/datasets/valakhorasani/gym-members-exercise-dataset/data
+
+**Setup:**
+Clone the Repository ([https://github.com/Sharjeel-Analyst/Applied_Data_Science_1])
+Install Requirements  pip install -r requirements.txt  
